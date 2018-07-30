@@ -1,0 +1,14 @@
+D:\C# tests\IpCountProg\IpCountProg\bin\Debug\IpCountProg.exe.config
+D:\C# tests\IpCountProg\IpCountProg\bin\Debug\IpCountProg.exe
+D:\C# tests\IpCountProg\IpCountProg\bin\Debug\IpCountProg.pdb
+D:\C# tests\IpCountProg\IpCountProg\obj\Debug\IpCountProg.csprojResolveAssemblyReference.cache
+D:\C# tests\IpCountProg\IpCountProg\obj\Debug\MainWindow.g.cs
+D:\C# tests\IpCountProg\IpCountProg\obj\Debug\App.g.cs
+D:\C# tests\IpCountProg\IpCountProg\obj\Debug\IpCountProg_MarkupCompile.cache
+D:\C# tests\IpCountProg\IpCountProg\obj\Debug\IpCountProg_MarkupCompile.lref
+D:\C# tests\IpCountProg\IpCountProg\obj\Debug\MainWindow.baml
+D:\C# tests\IpCountProg\IpCountProg\obj\Debug\IpCountProg.g.resources
+D:\C# tests\IpCountProg\IpCountProg\obj\Debug\IpCountProg.Properties.Resources.resources
+D:\C# tests\IpCountProg\IpCountProg\obj\Debug\IpCountProg.csproj.GenerateResource.Cache
+D:\C# tests\IpCountProg\IpCountProg\obj\Debug\IpCountProg.exe
+D:\C# tests\IpCountProg\IpCountProg\obj\Debug\IpCountProg.pdb
